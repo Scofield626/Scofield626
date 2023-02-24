@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Scofield (Zhengqing) Liu, a 2nd-year master student at École Polytechnique (Paris, France). 
+I'm Scofield, a 1-yr Ph.D. student at Department of Computing, Imperial College London. 
 
-- 🔭 I’m currently working on data plane programmability (P4), kernel-bypass techniques, and distributed systems.
-- 🌱 I’m currently learning Rust/Concurrent Programming/Compiler Design.
-- 👯 I’m looking to collaborate on the **data-center network/system design**.
+- 🔭 I’m currently working on language runtime and distributed systems.
+- 👯 I’m looking to collaborate on the system research.
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://github.com/Scofield626)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:scofieldlee80@gmail.com)
