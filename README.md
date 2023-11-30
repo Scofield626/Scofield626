@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Scofield, a 1-yr Ph.D. student at Department of Computing, Imperial College London. 
+I'm Scofield, a 1st-yr Ph.D. student at Department of Computing, Imperial College London. 
 
-- 🔭 I’m currently working on language runtime and distributed systems.
+- 🔭 I’m currently working on language runtime and concurrent/parallel systems.
 - 👯 I’m looking to collaborate on the system research.
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://github.com/Scofield626)
