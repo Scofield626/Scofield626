@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Scofield, a 1st-yr Ph.D. student at Department of Computing, Imperial College London. 
+I'm Scofield, a Ph.D. student @ Imperial College London. 
 
-- 🔭 I’m currently working on language runtime and concurrent/parallel systems.
-- 👯 I’m looking to collaborate on the system research.
+- 🔭 I’m currently working on runtime scheduling and parallelism/concurrency.
+- 👯 I’m looking to collaborate on the systems research.
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://github.com/Scofield626)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:scofieldlee80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhengqing-liu-728ba61b8/)
 ![Followers](https://img.shields.io/github/followers/Scofield626)
