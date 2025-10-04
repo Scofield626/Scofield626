@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey there!
 
 <!--
 **Scofield626/Scofield626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 I'm Scofield, a Ph.D. student @ Imperial College London.
 
-- 🔭 I work on low-latency, highly-concurrent, and fault-tolerant runtime systems.
-- ✨ I primarily code in Rust/C++.
-- 📫 How to reach me: scofield.liu@imperial.ac.uk
-- 💬 More information on my personal [webpage](https://scofield626.github.io/)
+- 🔭 Focus: Systems and Infrastructure
+- ⚙️ Expertise: Runtime systems, scheduling, and performance optimization
+- 🦀 Languages: Rust 🦀 | C++ ⚙️
+- 💬 More about me: [webpage](https://scofield626.github.io/)
+- 📫 Contact: scofield.liu@imperial.ac.uk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scofield-liu-728ba61b8/)
 ![Followers](https://img.shields.io/github/followers/Scofield626)
